@@ -7,7 +7,8 @@
 body {
   background-color: #d9dcd6;
 }
-/*changed from classes to elements to match html semantic changes*/
+
+/*changed from class to element to match html semantic changes*/
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -16,15 +17,18 @@ header {
   color: #ffffff;
 }
 
+/*changed from class to element to match html semantic changes*/
 h1 {
   display: inline-block;
   font-size: 48px;
 }
 
+/*changed to a class for more streamlined css*/
 .seo {
   color: #d9dcd6;
 }
 
+/*changed from class to element to match html semantic changes*/
 nav {
   padding-top: 15px;
   margin-right: 20px;
