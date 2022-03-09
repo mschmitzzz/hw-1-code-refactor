@@ -6,24 +6,20 @@ I was hired by a marketing agency to refactor the existing code for the Horiseon
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
+- [Link](#link)
+- [Screenshot](#screenshot)
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
+## Link
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+[GitHub Repo](https://github.com/mschmitzzz/hw-1-code-refactor)
 
-## Usage
+[Deployed Link](https://mschmitzzz.github.io/hw-1-code-refactor/)
 
-Provide instructions and examples for use. Include screenshots as needed.
+## Screenshot
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![screenshot](develop/assets/images/screenshot.png)
 
 ## Credits
 
