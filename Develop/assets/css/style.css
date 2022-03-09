@@ -37,9 +37,9 @@ nav {
   font-size: 20px;
 }
 
-/*the following is not nexessary ul {
+ul {
   list-style-type: none;
-}*/
+}
 
 li {
   display: inline;
@@ -91,7 +91,7 @@ p {
   background-color: #2589bd;
 }
 
-/*consolidated 3 class selectors with identical declarations*/
+/*consolidated 3 class selectors with identical declarations to .benefit-article*/
 .benefit-article {
   margin-bottom: 32px;
   color: #ffffff;
@@ -104,19 +104,8 @@ h3 {
   text-align: center;
 }
 
-.benefit-lead img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
-
-.benefit-brand img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
-
-.benefit-cost img {
+/*consolidated 3 class selectors with identical declarations to .benefit-article img*/
+.benefit-article img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
